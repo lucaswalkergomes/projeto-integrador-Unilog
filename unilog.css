@@ -1,0 +1,31 @@
+body{
+    background: rgb(8, 36, 119);
+}
+title{
+     color: rgb(182, 99, 4);
+}
+ul{
+    list-style: none;
+    display: inline-block;
+}
+img{
+    width: 1330px;
+    height: 500px;
+    display: table-cell;
+    float: left;
+}
+#container{
+    max-width: 10px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.texto{
+    display: table-cell;
+    float: right;
+    background: rgb(182, 99, 4);
+    width: 1330px;
+    margin-top: 10px;
+}
+.footer{
+    margin-left: 500px;
+}
